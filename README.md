@@ -1,4 +1,4 @@
-# SplayTree
+# Splay-Tree
 
 Splay tree implementation in java.
 
