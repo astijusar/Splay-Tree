@@ -2,6 +2,8 @@
 
 Splay tree implementation in java.
 
+If this project helped you, please leave a star! ⭐
+
 Classes written by me: SplaySet.java, Test.java
 
 SplaySet class methods:
